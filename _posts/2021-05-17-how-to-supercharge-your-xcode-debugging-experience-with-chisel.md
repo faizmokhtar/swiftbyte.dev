@@ -6,7 +6,7 @@ categories:
   - tips
   - tools
 ---
-[Chisel][1] is a collections of LLDB commands develop by Facebook to help debug our iOS apps.
+[Chisel][1] is a collection of LLDB commands develop by Facebook to help debug our iOS apps.
 
 # How to install
 
@@ -19,7 +19,7 @@ cd ~
 touch .lldbinit
 open .lldbinit
 ```
-Append the following line to your `.lldbinit` file. This will make sure that Chisel is imported whenever we launch Xcode.
+Afterward, append the following line in your `.lldbinit` file. This will make sure that Chisel is imported whenever we lldb in launch Xcode.
 ```bash
 command script import /usr/local/opt/chisel/libexec/fbchisellldb.py
 ```
