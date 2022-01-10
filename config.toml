@@ -1,3 +1,23 @@
-baseURL = 'http://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'swiftbyte'
+theme = 'mainroad'
+
+[Author]
+  name = 'Faiz Mokhtar'
+  bio = 'Just a software engineer'
+  avatar = 'https://en.gravatar.com/userimage/33242426/943848ebeec95833224ddd8599f3f53c.jpeg'
+[Params]
+  description = 'Byte size tutorials and tips on Swift and iOS development'
+  copyright = 'Faiz Mokhtar'
+  opengraph = true
+  schema = true
+  twitter_cards = true
+  readmore = true
+  authorbox = true
+  pager = true
+  dateformat = "2 January 2006"
+
+[Params.logo]
+  title = "swiftbyte" # Logo title, otherwise will use site title
+  subtitle = "Byte size tutorials and tips on Swift and iOS development" #
