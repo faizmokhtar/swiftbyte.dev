@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'swiftbyte'
 theme = 'mainroad'
+googleAnalytics = 'G-8ZTJ4MDK90'
 
 [Author]
   name = 'Faiz Mokhtar'
