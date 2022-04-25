@@ -21,4 +21,7 @@ googleAnalytics = 'G-8ZTJ4MDK90'
 
 [Params.logo]
   title = "swiftbyte" # Logo title, otherwise will use site title
-  subtitle = "Byte size tutorials and tips on Swift and iOS development" #
+  subtitle = "Byte size tutorials and tips on Swift and iOS development"
+
+[Params.style.vars]
+  highlightColor = "#ea580c" # Override highlight color
