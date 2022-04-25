@@ -48,10 +48,8 @@ That's it. Here is the full gist if you want to run it in Xcode. Make sure you h
 Here's the Lottie animation in action courtesy of [lottiefiles.com](https://lottiefiles.com/):
 
 <p align="center">
-  <img width="600" height="200" src="/remote-lottie-animation.gif">
+  <img width="250" height="200" src="/remote-lottie-animation.gif">
 </p>
-
-![Lottie animation in action](/remote-lottie-animation.gif)
 
 [1]: https://airbnb.design/lottie/
 [2]: https://github.com/airbnb/lottie-ios
